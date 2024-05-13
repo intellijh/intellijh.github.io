@@ -1,0 +1,13 @@
+- layout: left
+  name: 정보처리기사
+  dates: 2024.06.
+
+- layout: left
+  name: SQLD
+  dates: 2024.04.
+
+- layout: left
+  name: TOEIC
+  dates: 2020.10.
+  description: | # this will include new lines to allow paragraphs
+    * 790
